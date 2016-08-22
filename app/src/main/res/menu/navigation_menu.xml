@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+    <item android:id="@+id/home"
+          android:title="home"
+          android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/bookmark"
+          android:title="bookmark"
+          android:icon="@drawable/ic_bookmak"/>
+
+
+    <item android:id="@+id/friends"
+          android:title="friends"
+          android:icon="@drawable/ic_friends"/>
+
+
+
+    <item android:id="@+id/groups"
+          android:title="groups"
+          android:icon="@drawable/ic_groups"/>
+
+    </group>
+
+</menu>

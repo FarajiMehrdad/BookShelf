@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sing_in_button">@color/fountain_blue</color>
+    <color name="text_gray_color">@color/cadet_gray</color>
+
+
+    <color name="iron">#CCCCCC</color>
+    <color name="fountain_blue">#63C0BE</color>
+    <color name="cadet_gray">#94A8AD</color>
+    <color name="river_bed">#525D66</color>
+    <color name="des_mako">#424B55</color>
+</resources>
